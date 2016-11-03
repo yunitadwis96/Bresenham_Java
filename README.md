@@ -1,0 +1,2 @@
+# Bresenham_Java
+Algoritma bresenham merupakan perbaikan dari algritma perhitungan koordinat pada titik yang menggunakan persamaan. Nilai y2 dan seterusnya, dihitung dari nilai y sebelumnya dan pada Bresenham ini juga terdapat perulangan untuk mengubah posisi dan gambar. Jika P &lt; 0 maka x+1 dan Y tetap maka rumus menentukan P selanjutnya adalah P=P+(2*Dy), sedangkan jika P > 0 dan P=0 maka x+1, y+1 rumus menentukan P selanjutna adalah P=P+2*(Dy-Dx) kemudian terjadi pembulatan nilai x dan y nya
